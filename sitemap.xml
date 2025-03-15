@@ -32,6 +32,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/omega-speedmaster/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/rolex-submariner/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/apple-watch-series-8/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/tag-heuer-monaco/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
